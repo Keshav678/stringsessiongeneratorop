@@ -8,8 +8,8 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("❤️‍🔥 sᴜᴩᴩᴏʀᴛ ❤️‍🔥", url="https://t.me/lockroom"),
-         InlineKeyboardButton("🕶 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🕶 ", url="https://t.me/ab_sumit"),
+        [InlineKeyboardButton("❤️‍🔥 sᴜᴩᴩᴏʀᴛ ❤️‍🔥", url="https://t.me/crazy_chat_world"),
+         InlineKeyboardButton("🕶 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🕶 ", url="https://t.me/wtf_its_Keshav"),
         ],
     ]
 
